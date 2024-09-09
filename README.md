@@ -1,2 +1,13 @@
-# primeiroprojeto-html
-Meu primeiro projeto utilizando HTML e CSS
+# Portfólio Olá, Bem vindo ao meu projeto de portfólio.
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+## Feito por:
+
+### Vinícius Saito
